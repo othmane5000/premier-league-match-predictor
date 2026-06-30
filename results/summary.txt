@@ -1,0 +1,8 @@
+RÉSUMÉ DES RÉSULTATS
+========================================
+Dataset : 1505 matchs (saisons 2022/23 à 2025/26)
+Train/Test split : 1204 / 301 (chronologique)
+
+Baseline (toujours domicile): 41.2%
+Régression logistique: 45.8%
+Random Forest: 40.9%
